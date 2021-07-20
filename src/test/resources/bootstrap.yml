@@ -1,0 +1,3 @@
+embedded:
+  mongodb:
+    dockerImage: mongo:latest
