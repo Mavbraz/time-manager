@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: OFF
+
+logging:
+  file:
+    name: log/app-prod.log
